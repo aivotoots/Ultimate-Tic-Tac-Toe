@@ -12,7 +12,7 @@ Ultimate Tic-Tac-Toe takes the classic game of Tic-Tac-Toe and adds a strategic 
 3. 3 in a row in a small board wins the small board and the big square. 
 4. 3 small boards in a row wins the game. 
 5. Strategize your play, plan your next move, let the opponent win some small boards, while you win the game! 
-```
+6. On the Forget game subtype, each 4th move of the same player in a board will erase his oldest move.
 
 ## How to Start?
 ```
